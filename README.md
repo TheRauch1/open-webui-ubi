@@ -1,4 +1,5 @@
 # Open WebUI 👋
+❗️ THIS IS AN ADJUSTED REPO TO RUN ON REDHAT UBI IMAGES! IT ALSO REENABLES THE USE OF THE PINEROSE THEME ❗️
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)
